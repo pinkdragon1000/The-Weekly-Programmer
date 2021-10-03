@@ -6,7 +6,7 @@ Tools:
 * Python-Beautiful Soup Library
 * Websites to scrape: https://www.codechef.com/problems/school/ , https://leetcode.com/problemset/all/
 * Mac-crontab
-* Some db to store the data?
+* Csv created to store the data
 
 
 
